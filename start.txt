@@ -1,1 +1,2 @@
 Test Git Quick Start Demo
+Adding to the file and checking the Git status.
